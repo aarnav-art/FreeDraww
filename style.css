@@ -1,0 +1,25 @@
+body{
+    background: url("https://tse4.mm.bing.net/th?id=OIP.k0LwARAQ0JPTKW_QX25MCwHaF7&pid=Api&P=0&h=180");
+    background-size : cover;
+    background-position: center;
+}
+h1{
+    color:crimson;
+    font-family :system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+}
+#mycanvas{
+    border-width : 30px;
+    border-style : ridge;
+    border-color:peru;
+}
+button{
+    background-color: forestgreen;
+    border: none;
+    color:darksalmon;
+    width : 100px;
+    height : 100px;
+    border-radius: 50px;
+    float : right;
+    font-size: 20px;
+}
